@@ -1,0 +1,72 @@
+[
+{
+"price": "$16.99",
+"name": "Guinness Extra Stout",
+"rating": {
+"average": 3.9785961474594638,
+"reviews": 119
+},
+"image": "https://www.totalwine.com/media/sys_master/twmmedia/h50/h90/11996630056990.png",
+"id": 3
+},
+{
+"price": "$8.99",
+"name": "Guinness Extra Stout",
+"rating": {
+"average": 3.5135460961961718,
+"reviews": 199
+},
+"image": "https://www.totalwine.com/media/sys_master/twmmedia/h35/he7/11996577726494.png",
+"id": 4
+},
+{
+"price": "$15.49",
+"name": "Sierra Nevada Pale Ale",
+"rating": {
+"average": 4.266364643483868,
+"reviews": 414
+},
+"image": "https://www.totalwine.com/media/sys_master/twmmedia/h19/h43/11735160193054.png",
+"id": 5
+},
+{
+"price": "$15.49",
+"name": "Sierra Nevada Pale Ale",
+"rating": {
+"average": 3.141161723541611,
+"reviews": 459
+},
+"image": "https://www.totalwine.com/media/sys_master/twmmedia/h0a/h17/11589987434526.png",
+"id": 6
+},
+{
+"price": "$15.99",
+"name": "Lagunitas IPA",
+"rating": {
+"average": 1.7610665871324303,
+"reviews": 358
+},
+"image": "https://www.totalwine.com/media/sys_master/twmmedia/hd2/hfd/11348869382174.png",
+"id": 7
+},
+{
+"price": "$11.99",
+"name": "Dogfish Head 120-Minute IPA",
+"rating": {
+"average": 3.1053162095618543,
+"reviews": 64
+},
+"image": "https://www.totalwine.com/media/sys_master/twmmedia/hf7/h2e/8814407614494.png",
+"id": 8
+},
+{
+"price": "$15.49",
+"name": "Sierra Nevada Torpedo Extra IPA",
+"rating": {
+"average": 1.1092369711087207,
+"reviews": 345
+},
+"image": "https://www.totalwine.com/media/sys_master/twmmedia/ha5/h01/8799883329566.png",
+"id": 9
+}
+]
